@@ -1,0 +1,9 @@
+E:\DoAnCongNghe.Net\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\DoAnCongNgheNet.exe.config
+E:\DoAnCongNghe.Net\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\DoAnCongNgheNet.exe
+E:\DoAnCongNghe.Net\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\DoAnCongNgheNet.pdb
+E:\DoAnCongNghe.Net\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.csprojResolveAssemblyReference.cache
+E:\DoAnCongNghe.Net\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.Form1.resources
+E:\DoAnCongNghe.Net\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.Properties.Resources.resources
+E:\DoAnCongNghe.Net\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.csproj.GenerateResource.Cache
+E:\DoAnCongNghe.Net\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.exe
+E:\DoAnCongNghe.Net\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.pdb
